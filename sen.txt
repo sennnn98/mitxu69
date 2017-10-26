@@ -1,0 +1,25 @@
+			Các câu l?nh ð? up file or folder nên github
+1.li?t kê các file or folder trong cái respontory(thý m?c) mk v?a clone("t?i v?")
+
+vd: respontory:thý m?c test_demo mk v?a t?i trên github.com và desktop
+
+2.git clone http://github.com/....: t?i r v? sau này
+
+
+3.git config--global user.name "tên(ghi g? cx dc)": ð?nh d?ng tên ng up
+
+vd:git config--global user.name"mitxu69"
+
+4.git config--global user.email "mail tài kho?n github c?a b?n": email tai khoan github cua ban
+
+
+	vd:github config--global user.email "huyenxu698@gmail.com
+
+5.git add: tai code lên github
+	+th1:git add:
+	+th2: git add tên file : t?i lên git cái file mk c?n up lên
+6.git commit-m “n?i dung chú thích”: chú thích file upload nên gi
+
+7.git push origin master: dùng ð? up lên git( thao tác r?t qtrong n s? qð là mk ddc up lên hay k
+Git push : l?nh t?i lên.
+Orgin master: nhánh ( m?c ð?nh trên git th? nhánh s? là master
